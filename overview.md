@@ -1,0 +1,8 @@
+### A Study of Internet of Things (IoT) Applications [14]
+
+Internet of Things is the technology and service that includes generating information (sensor) - acquisition (parts, devices) - sharing (Clyde) - utilization (Big Data)- application software. Internet of Things is getting the attention from the public due to the effect of increasing export businesses and jobs and has become a buzzword among businesses. The Internet of Things market has a tendency to grow in the future as it is extended from social infrastructure (utilities, transportation, automation, etc.) and safety management to the consumer sector centered on life services. Sophisticated wireless communication technology is expected to form a huge network connected to all object units as a communication function.
+
+The IoT market of the future can be utilized as the power for the new market in terms of social infrastructures and safety management and the IoT market of life–form services can be also utilized as the power for the new market in the new industry. But in the other direction, the loT market has a threat factor that the inter-industry areas could be ambiguous due to a variety of convergences. In order to adapt to the IoT era, the electrical engineering industry, for example, is required to converse its thinking. First they need to think that communication functions can be granted to electrical engineering works. Second, continuous education and training is essential regarding these electrical properties and construction methods. Not only the telecommunication sector but the electrical engineering sector also needs education and training.
+
+14. Kang, Y., et al. "A study on the Internet of Things (IoT) applications." IJSEIA 9.9 (2015): 117-126.
+
